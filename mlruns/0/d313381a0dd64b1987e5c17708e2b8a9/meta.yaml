@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2144ax/Downloads/End-to-End-MLops-With-MLflow/mlruns/0/d313381a0dd64b1987e5c17708e2b8a9/artifacts
+end_time: 1732531011216
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d313381a0dd64b1987e5c17708e2b8a9
+run_name: serious-hen-271
+run_uuid: d313381a0dd64b1987e5c17708e2b8a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732530994033
+status: 3
+tags: []
+user_id: 2144ax

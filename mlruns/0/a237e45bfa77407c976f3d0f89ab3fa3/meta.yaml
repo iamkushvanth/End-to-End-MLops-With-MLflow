@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2144ax/Downloads/End-to-End-MLops-With-MLflow/mlruns/0/a237e45bfa77407c976f3d0f89ab3fa3/artifacts
+end_time: 1732532506564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a237e45bfa77407c976f3d0f89ab3fa3
+run_name: monumental-wren-787
+run_uuid: a237e45bfa77407c976f3d0f89ab3fa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732532497411
+status: 3
+tags: []
+user_id: 2144ax

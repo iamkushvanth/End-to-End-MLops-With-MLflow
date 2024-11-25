@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2144ax/Downloads/End-to-End-MLops-With-MLflow/mlruns/0/25ea332fdb04449a8dc092cd9d4609cc/artifacts
+end_time: 1732532897712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25ea332fdb04449a8dc092cd9d4609cc
+run_name: chill-whale-209
+run_uuid: 25ea332fdb04449a8dc092cd9d4609cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732532888613
+status: 3
+tags: []
+user_id: 2144ax

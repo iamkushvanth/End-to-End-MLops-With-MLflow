@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2144ax/Downloads/End-to-End-MLops-With-MLflow/mlruns/0/c9754982ee104071a0142a3e169792a0/artifacts
+end_time: 1732532962586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9754982ee104071a0142a3e169792a0
+run_name: wise-cow-760
+run_uuid: c9754982ee104071a0142a3e169792a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732532953822
+status: 3
+tags: []
+user_id: 2144ax
