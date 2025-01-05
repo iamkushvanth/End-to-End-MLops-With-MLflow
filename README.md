@@ -156,7 +156,7 @@ export MLFLOW_TRACKING_PASSWORD=d9bfbfe51a4d373f75164c02860f347689e8de4f
 
     AWS_ECR_LOGIN_URI = demo>>  288761730051.dkr.ecr.eu-north-1.amazonaws.com
 
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME = mlproj
 
 
 
